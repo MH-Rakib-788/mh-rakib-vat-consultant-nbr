@@ -1,0 +1,5 @@
+run = "bash replit_start.sh"
+
+[env]
+APP_BRAND = "MH Rakib VAT Consultant (NBR)"
+COMPANY_NAME = "VAT Consultancy Firm"
